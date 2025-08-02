@@ -1,5 +1,4 @@
 
-
 ## Licence « ADN-Libre » (LAL)
 
 **Version 0.8 (2025-08-01)**
@@ -7,7 +6,6 @@
 La Licence « ADN-Libre » (LAL) est un engagement irrévocable envers la gratuité, l'accès libre et la propagation des innovations considérées comme des biens communs essentiels à l'avancée fondamentale de l'humanité.
 
 **La présente licence est elle-même sous licence « ADN-Libre ».**
-
 
 
 ### Introduction
@@ -79,7 +77,7 @@ La Licence ADN-Libre vise à garantir la pérennité, la liberté d’usage et d
     * Le nom du concepteur et/ou de l'entreprise si le concepteur le souhaite.
 2.  **Mentions des ADN-Enfants** : Au-delà des mentions de l'ADN-Socle, tout Outil ADN-Enfant X doit également inclure, si existantes, les mentions spécifiques à son propre identifiant (ADN-Enfant X) et le nom du concepteur et/ou de l'entreprise de cet Outil Enfant (s'il le souhaite).
 
-
+---
 
 ### Article 7 : Clauses Anti-Contournement
 
@@ -87,7 +85,7 @@ La Licence ADN-Libre vise à garantir la pérennité, la liberté d’usage et d
 2.  **Non-Altération de la Licence** : La présente Licence « ADN-Libre » (ADN-Socle) est elle-même inaltérable. Toute variation, modification ou interprétation dérivée de cette licence est strictement interdite. Elle est soumise à ses propres principes de non-privatisation et d'héritage viral, garantissant qu'elle ne puisse être utilisée à des fins de profit rétroactif ou de privatisation de biens qui devraient rester communs.
 3.  **Nullité du Contournement** : Toute tentative de *wrapper*, d'encapsuler, de détourner ou de manipuler la structure de l'Outil ADN-Libre ou les mécanismes de la présente licence dans le but d'échapper à l'héritage de la gratuité et de l'accès libre est strictement interdite et rend l'Œuvre Dérivée non-conforme aux termes de la licence.
 
-
+---
 
 ### Article 8 : Responsabilité et protection contre les atteintes illégitimes
 
@@ -96,7 +94,7 @@ La Licence ADN-Libre vise à garantir la pérennité, la liberté d’usage et d
 3.  **Détenteur d’infrastructure n’est pas responsable si bonnes pratiques respectées** : Le détenteur d'une infrastructure hébergeant un Outil ADN-Libre n'est pas tenu responsable en cas d'incident si toutes les bonnes pratiques de sécurité reconnues ont été respectées et mises en œuvre.
 4.  **Favorise justice rapide, protection des utilisateurs et bonnes pratiques** : La présente licence vise à favoriser une résolution rapide des litiges, la protection des utilisateurs et l'adoption de bonnes pratiques de sécurité au sein de l'écosystème ADN-Libre.
 
-
+---
 
 ### Article 9 : Interdiction de Déviation de l'Esprit et Nullité Automatique
 
@@ -105,7 +103,7 @@ La Licence ADN-Libre vise à garantir la pérennité, la liberté d’usage et d
 3.  **Tentative d’appropriation privative entraîne perte automatique des droits** : Toute tentative d'appropriation privative d'un Outil ADN-Libre ou de ses dérivés, en violation des termes de la présente licence, entraînera la perte automatique et immédiate de tous les droits d'utilisation, de modification et de distribution accordés par celle-ci à la partie contrevenante.
 4.  **Cette clause prévaut sur toute contradiction externe** : La présente clause prévaut sur toute disposition externe ou tout accord qui tenterait de la contredire ou de l'annuler.
 
-
+---
 
 ### Article 10 : Période probatoire et irrévocabilité différée
 
@@ -115,10 +113,10 @@ La Licence ADN-Libre vise à garantir la pérennité, la liberté d’usage et d
 4.  **Application immédiate pour les outils existants** : Tout Outil existant avant la mise en place de la présente clause, ou tout Outil ancien entrant sous Licence ADN-Libre, est soumis à la licence de manière **immédiate et irrévocable**, sans période probatoire.
 5.  **Transparence et information** : Tout changement de licence pendant la période probatoire doit être clairement communiqué à la communauté et aux utilisateurs pour garantir la transparence.
 
-
+---
 
 ## Conclusion
 
 La présente Licence « ADN-Libre » incarne un engagement pour une innovation partagée et un progrès humain accessible à tous. En utilisant un Outil ADN-Libre, vous acceptez l'ensemble des termes et conditions décrits ci-dessus.
 
-
+---
