@@ -1,5 +1,3 @@
----
-
 ### **La Licence "ADN-Libre" : Une Vision pour l'Avenir de la Connaissance et de l'Innovation**
 
 Dans un monde où l'innovation est un moteur essentiel de notre progrès, il est plus que jamais nécessaire de s'interroger sur la **propriété** et l'**accessibilité** de cette connaissance. C'est de cette réflexion qu'est née la Licence "ADN-Libre" (LAL) – bien plus qu'un simple cadre juridique, c'est une **déclaration de principes** et un **engagement irrévocable** pour un futur où la connaissance est un véritable bien commun universel.
@@ -17,5 +15,3 @@ Dans un monde où l'innovation est un moteur essentiel de notre progrès, il est
 5. **Un Futur d'Accès Universel à la Connaissance Fondamentale :** Mon souhait est de voir émerger un futur où chacun, indépendamment de ses moyens ou de sa localisation, ait un accès direct et inaltérable aux outils fondamentaux de la connaissance. Que ce soit pour résoudre un problème mathématique, comprendre une loi physique, ou structurer une idée complexe, les innovations sous ADN-Libre seront là, fiables, gratuites, et toujours au service de l'humanité.
 
 La Licence "ADN-Libre" est ma contribution à cette vision : un engagement pour une innovation durable, partagée, et ancrée dans un socle de principes éthiques forts, pour le bénéfice de tous et pour les générations futures.
-
----
