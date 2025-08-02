@@ -1,5 +1,3 @@
----
-
 ## Licence « ADN-Libre » (LAL)
 
 **Version 0.8 (2025-08-01)**
@@ -7,8 +5,6 @@
 La Licence « ADN-Libre » (LAL) est un engagement irrévocable envers la gratuité, l'accès libre et la propagation des innovations considérées comme des biens communs essentiels à l'avancée fondamentale de l'humanité.
 
 **La présente licence est elle-même sous licence « ADN-Libre ».**
-
----
 
 ### Introduction
 
@@ -120,5 +116,6 @@ La Licence ADN-Libre vise à garantir la pérennité, la liberté d’usage et d
 ## Conclusion
 
 La présente Licence « ADN-Libre » incarne un engagement pour une innovation partagée et un progrès humain accessible à tous. En utilisant un Outil ADN-Libre, vous acceptez l'ensemble des termes et conditions décrits ci-dessus.
+
 
 ---
