@@ -1,4 +1,4 @@
----
+
 
 ## Licence « ADN-Libre » (LAL)
 
@@ -8,7 +8,7 @@ La Licence « ADN-Libre » (LAL) est un engagement irrévocable envers la gratui
 
 **La présente licence est elle-même sous licence « ADN-Libre ».**
 
----
+
 
 ### Introduction
 
@@ -16,7 +16,7 @@ La Licence ADN-Libre vise à garantir la pérennité, la liberté d’usage et d
 
 À l’issue de cette période, la licence devient irrévocable, assurant que l’outil et ses dérivés restent à jamais accessibles et libres, **à l'exception des** outils déjà anciens soumis à ADN-Libre qui bénéficient d’une irrévocabilité immédiate.
 
----
+
 
 ### Article 1 : Définitions
 
@@ -28,7 +28,7 @@ La Licence ADN-Libre vise à garantir la pérennité, la liberté d’usage et d
 5.  **« Bien Commun »** : La volonté d'offrir à tous un accès libre et gratuit à un outil. Désigne toute innovation dont la nature répond à un besoin réel et universel pour l'avancée fondamentale de l'homme, distincte d'une simple évolution technique ou d'un service de confort, sauf si ce confort est intrinsèquement lié à ladite avancée fondamentale de l'homme.
 6.  **« Cessation d'Immunité »** : Action irrévocable par laquelle le propriétaire d'un Outil Tiers autorise expressément l'utilisation d'une version spécifique de son Outil Tiers avec un Outil ADN-Libre précis, renonçant pour cette interaction aux contraintes de sa propre licence.
 
----
+
 
 ### Article 2 : Licence d'Utilisation
 
@@ -36,7 +36,7 @@ La Licence ADN-Libre vise à garantir la pérennité, la liberté d’usage et d
 2.  **Irrevocabilité** : Les droits et libertés accordés par la présente licence sont irrévocables une fois l'Outil placé sous Licence « ADN-Libre ».
 3.  **Obligation de Mention** : Toute utilisation ou redistribution de l'Outil ADN-Libre doit clairement et visiblement attribuer la paternité en mentionnant l'Outil ADN-Socle (nom et éditeur), suivi des mentions de l'Outil ADN-Enfant X et de ses concepteurs (le cas échéant), **conformément aux** règles de traçabilité définies à l'Article 6.
 
----
+
 
 ### Article 3 : Licence de Modification et d'Héritage (Copyleft Viral)
 
@@ -47,7 +47,7 @@ La Licence ADN-Libre vise à garantir la pérennité, la liberté d’usage et d
 5.  **Transmissibilité** : Cette obligation de gratuité et de liberté est transmissible aux dérivés des dérivés. Toute nouvelle œuvre utilisant une Œuvre Dérivée déjà soumise à cette licence hérite à son tour des mêmes obligations.
 6.  **Unidirectionnalité de la Contamination** : La « contamination » ou **l'**héritage viral de cette licence s'opère exclusivement dans le sens de la gratuité et de l'accès libre. Elle ne peut être utilisée pour imposer des restrictions, des coûts ou des licences propriétaires. Toute tentative de créer une licence « contaminante » introduisant des contraintes n'est pas reconnue par la présente licence et ne peut altérer le caractère ADN-Libre de l'Outil.
 
----
+
 
 ### Article 4 : Domaine d'Application et Dépendances
 
@@ -58,7 +58,7 @@ La Licence ADN-Libre vise à garantir la pérennité, la liberté d’usage et d
     * Ils sont de **conception nouvelle** et ne dépendent eux-mêmes d'aucune licence restrictive.
     * Leur utilisation est **expressément autorisée** par leur propriétaire **sans imposer de restriction au caractère gratuit et ouvert de l'Outil ADN-Libre**. Dans ce cas précis, il s'agit d'une « Cessation d'Immunité » par le propriétaire de l'Outil Tiers.
 
----
+
 
 ### Article 5 : Mécanisme de « Cessation d'Immunité »
 
@@ -68,7 +68,7 @@ La Licence ADN-Libre vise à garantir la pérennité, la liberté d’usage et d
 4.  **Irrévocabilité de la Cessation** : La levée d'immunité pour la version spécifique de l'Outil Tiers et l'Outil ADN-Enfant X (et/ou ses descendants directs impliqués dans cette interaction spécifique) est **irrévocable**.
 5.  **Pérennité de l'ADN-Libre** : Tous les outils placés sous Licence ADN-Libre (ADN-Socle) ainsi que leurs descendants (ADN-Enfants) restent sous la Licence « ADN-Libre » de manière définitive et irrévocable, sauf si l'exception de « Cessation d'Immunité » est mise en œuvre par un Outil Tiers pour une interaction spécifique et contrôlée, assurant que l'ADN-Libre ne sera jamais contraint.
 
----
+
 
 ### Article 6 : Traçabilité et Mentions Légales
 
@@ -79,7 +79,7 @@ La Licence ADN-Libre vise à garantir la pérennité, la liberté d’usage et d
     * Le nom du concepteur et/ou de l'entreprise si le concepteur le souhaite.
 2.  **Mentions des ADN-Enfants** : Au-delà des mentions de l'ADN-Socle, tout Outil ADN-Enfant X doit également inclure, si existantes, les mentions spécifiques à son propre identifiant (ADN-Enfant X) et le nom du concepteur et/ou de l'entreprise de cet Outil Enfant (s'il le souhaite).
 
----
+
 
 ### Article 7 : Clauses Anti-Contournement
 
@@ -87,7 +87,7 @@ La Licence ADN-Libre vise à garantir la pérennité, la liberté d’usage et d
 2.  **Non-Altération de la Licence** : La présente Licence « ADN-Libre » (ADN-Socle) est elle-même inaltérable. Toute variation, modification ou interprétation dérivée de cette licence est strictement interdite. Elle est soumise à ses propres principes de non-privatisation et d'héritage viral, garantissant qu'elle ne puisse être utilisée à des fins de profit rétroactif ou de privatisation de biens qui devraient rester communs.
 3.  **Nullité du Contournement** : Toute tentative de *wrapper*, d'encapsuler, de détourner ou de manipuler la structure de l'Outil ADN-Libre ou les mécanismes de la présente licence dans le but d'échapper à l'héritage de la gratuité et de l'accès libre est strictement interdite et rend l'Œuvre Dérivée non-conforme aux termes de la licence.
 
----
+
 
 ### Article 8 : Responsabilité et protection contre les atteintes illégitimes
 
@@ -96,7 +96,7 @@ La Licence ADN-Libre vise à garantir la pérennité, la liberté d’usage et d
 3.  **Détenteur d’infrastructure n’est pas responsable si bonnes pratiques respectées** : Le détenteur d'une infrastructure hébergeant un Outil ADN-Libre n'est pas tenu responsable en cas d'incident si toutes les bonnes pratiques de sécurité reconnues ont été respectées et mises en œuvre.
 4.  **Favorise justice rapide, protection des utilisateurs et bonnes pratiques** : La présente licence vise à favoriser une résolution rapide des litiges, la protection des utilisateurs et l'adoption de bonnes pratiques de sécurité au sein de l'écosystème ADN-Libre.
 
----
+
 
 ### Article 9 : Interdiction de Déviation de l'Esprit et Nullité Automatique
 
@@ -105,7 +105,7 @@ La Licence ADN-Libre vise à garantir la pérennité, la liberté d’usage et d
 3.  **Tentative d’appropriation privative entraîne perte automatique des droits** : Toute tentative d'appropriation privative d'un Outil ADN-Libre ou de ses dérivés, en violation des termes de la présente licence, entraînera la perte automatique et immédiate de tous les droits d'utilisation, de modification et de distribution accordés par celle-ci à la partie contrevenante.
 4.  **Cette clause prévaut sur toute contradiction externe** : La présente clause prévaut sur toute disposition externe ou tout accord qui tenterait de la contredire ou de l'annuler.
 
----
+
 
 ### Article 10 : Période probatoire et irrévocabilité différée
 
@@ -115,10 +115,10 @@ La Licence ADN-Libre vise à garantir la pérennité, la liberté d’usage et d
 4.  **Application immédiate pour les outils existants** : Tout Outil existant avant la mise en place de la présente clause, ou tout Outil ancien entrant sous Licence ADN-Libre, est soumis à la licence de manière **immédiate et irrévocable**, sans période probatoire.
 5.  **Transparence et information** : Tout changement de licence pendant la période probatoire doit être clairement communiqué à la communauté et aux utilisateurs pour garantir la transparence.
 
----
+
 
 ## Conclusion
 
 La présente Licence « ADN-Libre » incarne un engagement pour une innovation partagée et un progrès humain accessible à tous. En utilisant un Outil ADN-Libre, vous acceptez l'ensemble des termes et conditions décrits ci-dessus.
 
----
+
